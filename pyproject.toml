@@ -120,7 +120,7 @@ html5lib = "^1.1"
 pytools = "^2022.1.8"
 
 # For rendering ipython notebook
-nbconvert = "^5.2.1"
+nbconvert = "^6.5.1"
 
 # For relate script
 colorama = "*"
